@@ -1,0 +1,4 @@
+- menyelesaikan course di freecodecamp
+- menyelesaikan course di fazztrack
+- menguasai bahasa pemrograman javascript
+- membuat satu project menggunakan javascript
