@@ -1,5 +1,5 @@
-- menyelesaikan course di freecodecamp
 - menyelesaikan course di fazztrack
 - menguasai bahasa pemrograman javascript
 - membuat satu project menggunakan javascript
 - menyelesaikan course di dicoding
+- menyelesaikan project web menggunakan CI framework
